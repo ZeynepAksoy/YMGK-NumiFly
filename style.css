@@ -5,15 +5,23 @@
     box-sizing: border-box;
 }
 
-body {
+/*body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
     color: #333;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+}*/
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background: linear-gradient(to bottom, #fff7cc, #ffe680);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
-
 /* Navbar */
 nav {
     display: flex;
@@ -87,25 +95,23 @@ footer {
 
 /* Mobil Uyumluluk */
 @media (max-width: 768px) {
-    nav {
+    .menu-toggle {
+        display: flex;
+    }
+
+    .nav-links {
+        display: none;
         flex-direction: column;
-        align-items: flex-start;
+        width: 100%;
+        text-align: center;
+        background: #ffeb99;
     }
 
-    nav .nav-links {
-        flex-direction: column;
-        margin-top: 10px;
+    .nav-links.active {
+        display: flex;
     }
 
-    nav .nav-links li {
-        margin: 10px 0;
-    }
-
-    .hero h1 {
-        font-size: 2em;
-    }
-
-    footer {
-        font-size: 0.9em;
+    .nav-links li {
+        margin: 15px 0;
     }
 }
