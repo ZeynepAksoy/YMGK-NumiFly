@@ -1,0 +1,169 @@
+/* Genel Ayarlar */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Navbar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: #ffeb99;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+nav .logo img {
+    height: 70px;
+    background: transparent;
+}
+
+nav .nav-links {
+    list-style: none;
+    display: flex;
+}
+
+nav .nav-links li {
+    margin-left: 20px;
+}
+
+nav .nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+nav .nav-links a.active {
+    color: #ff9900;
+}
+
+nav .nav-links a:hover {
+    color: #ff9900;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 40px 20px;
+    background: linear-gradient(to bottom, #fff7cc, #ffe680);
+}
+
+.hero h1 {
+    font-size: 2.5em;
+    color: #ff9900;
+    font-weight: 600;
+}
+
+/* İletişim Sayfası */
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 40px 20px;
+    gap: 20px;
+
+}
+
+.contact-form,
+.contact-info {
+    flex: 1;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form h2,
+.contact-info h2 {
+    font-size: 1.8em;
+    color: #ff9900;
+    margin-bottom: 15px;
+}
+
+.contact-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #555;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-form button {
+    display: block;
+    background: #ff9900;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.contact-form button:hover {
+    background: #e68a00;
+}
+
+.contact-info img {
+    display: block;
+    width: 150px;
+    margin: 0 auto 20px;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+    color: #555;
+    font-size: 1.1em;
+}
+
+.contact-info strong {
+    color: #333;
+}
+
+.contact-info a {
+    color: #ff9900;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #ffeb99;
+    color: #333;
+    margin-top: auto;
+}
+
+/* Mobil Uyumluluk */
+@media (max-width: 768px) {
+    .contact-container {
+        flex-direction: column;
+    }
+}
