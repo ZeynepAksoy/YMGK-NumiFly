@@ -1,10 +1,10 @@
 .login-container {
-    margin: 30px auto; /* Üstten 30px boşluk, sağdan ve soldan otomatik ortalama */
+    margin: 30px auto; 
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: calc(100vh - 30px); /* 100vh'den margin'i çıkararak içerik düzgün ortalanır */
+    height: calc(100vh - 30px);
 }
 
 .login-box {

@@ -30,11 +30,11 @@ nav {
     padding: 10px 20px;
     background: #ffeb99;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    height: 150px;
+    height: 130px;
 }
 
 nav .logo img {
-    height: 200px;
+    height: 200px;  
 }
 
 nav .nav-links {
@@ -49,11 +49,15 @@ nav .nav-links li {
 nav .nav-links a {
     text-decoration: none;
     color: #733F34;
-    font-weight: bold;
+    font-weight: 600;
     transition: color 0.3s ease;
 }
 
 nav .nav-links a:hover {
+    color: #ff9900;
+}
+
+nav .nav-links a.active {
     color: #ff9900;
 }
 
