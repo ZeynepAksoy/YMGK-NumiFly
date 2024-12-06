@@ -73,6 +73,7 @@ nav .nav-links a:hover {
 .hero h1 {
     font-size: 2.5em;
     color: #ff9900;
+    margin-top: -55px;
 }
 
 .hero p {
