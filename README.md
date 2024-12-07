@@ -52,7 +52,6 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
      </tr>
    </table>
 
-     ## Ekran Görüntüleri
     4.İletişim
    <table>
      <tr>
