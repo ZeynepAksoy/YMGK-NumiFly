@@ -25,6 +25,8 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
    ```bash
    git clone https://github.com/ZeynepAksoy/NumiFly.git
 
+--- 
+
      ## Ekran Görüntüleri
    1.Anasayfa 
     <table>
@@ -71,3 +73,6 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
        <td><img src="ar-start-page.png" alt="Ar Deneyimini Başlat Sayfası" width="50%"></td>
      </tr>
    </table>
+
+## İletişim
+Sorularınız veya geri bildirimleriniz için lütfen [zeynepaksoy853@gmail.com](mailto:zeynepaksoy853@gmail.com) adresinden benimle iletişime geçin.
