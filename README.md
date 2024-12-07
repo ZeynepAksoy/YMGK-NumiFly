@@ -29,14 +29,14 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 
      ## Ekran Görüntüleri
    1.Anasayfa 
-    <table>
+  <table>
      <tr>
        <td><img src="home-page.png" alt="Ana Sayfa" width="50%"></td>
      </tr>
-   </table>
+  </table>
 
     2.Ar Deneyimi
-    <table>
+  <table>
      <tr>
        <td><img src="ar-page1.png" alt="Ar Deneyimi" width="50%"></td>
      </tr>
@@ -46,7 +46,7 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
    </table>
 
     3.Hakkımızda
-    <table>
+  <table>
      <tr>
        <td><img src="about-page.png" alt="Hakkımızda" width="50%"></td>
      </tr>
@@ -54,21 +54,21 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 
      ## Ekran Görüntüleri
     4.İletişim
-    <table>
+   <table>
      <tr>
        <td><img src="contact-page.png" alt="İletişim Sayfası" width="50%"></td>
      </tr>
    </table>
 
     5.Dökümanlar
-    <table>
+  <table>
      <tr>
        <td><img src="document-page.png" alt="Dokümanlar Sayfası" width="50%"></td>
      </tr>
-   </table>
+  </table>
 
     6.Ar Deneyimini Başlat
-    <table>
+  <table>
      <tr>
        <td><img src="ar-start-page.png" alt="Ar Deneyimini Başlat Sayfası" width="50%"></td>
      </tr>
