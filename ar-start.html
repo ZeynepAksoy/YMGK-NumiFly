@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AR Deneyimi - NumiFly</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="ar-start.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav>
+        <div class="logo">
+            <a href="index.html">
+                <img src="logo.png" alt="NumiFly Logo">
+            </a>
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html">Anasayfa</a></li>
+            <li><a href="ar.html">AR Deneyimi</a></li>
+            <li><a href="about.html">Hakkımızda</a></li>
+            <li><a href="contact.html">İletişim</a></li>
+            <li><a href="documents.html">Dökümanlar</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <h1>AR Deneyimi</h1>
+
+            <!-- AR Deneyimini Başlat -->
+    <section class="ar-content">
+        <div class="container">
+            <h2>AR Deneyimini Başlat</h2>
+            <button onclick="showContainers()">AR Deneyimini Başlat</button>
+        </div>
+    </section>
+
+    <!-- AR Deneyimi İçin Containerlar -->
+    <section id="ar-containers" class="ar-containers" style="display: none;">
+
+        <div class="ar-container">
+            <a href="https://create.overlyapp.com/webar/fb8fe417023ca9ffca5ed12b5d1847163abc8ae3?embed=true" target="_blank">
+                <img src="2.png"" alt="AR Deneyimi 2">
+                <h3>Çiçek Oyunu</h3>
+            </a>
+        </div>
+
+        <div class="ar-container">
+            <a href="https://create.overlyapp.com/webar/eb32b79fc34b79d20bc8d7c34f50994d1119bdce?embed=true" target="_blank">
+                <img src="tatli.png" alt="AR Deneyimi 1">
+                <h3>Tatlı Oyunu</h3>
+            </a>
+        </div>
+        
+        <div class="ar-container">
+            <a href="https://create.overlyapp.com/webar/a4b5b31a4cad9f5068fbf2096ee52afc0a0e3600?embed=true" target="_blank">
+                <img src="bag.png" alt="AR Deneyimi 3">
+                <h3>Poşet Oyunu</h3>
+            </a>
+        </div>
+    </section>
+    </header>
+
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 NumiFly. Tüm Hakları Saklıdır.</p>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        function showContainers() {
+            document.getElementById("ar-containers").style.display = "flex";
+        }
+    </script>
+</body>
+</html>
