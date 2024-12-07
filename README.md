@@ -27,7 +27,20 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 
 --- 
 
-     ## Ekran Görüntüleri
+## Web Sitesi
+[NumiFly Web Sitesi](https://zeynepaksoy.github.io/YMGK-NumiFly/)
+
+--- 
+## Dokümanlar
+[NumiFly Dökümanlar (Google Drive)](https://drive.google.com/drive/folders/1LCImZStnDPfRoy9Ko_WlM_YDbM5BtplS?usp=share_link)
+--- 
+
+## Proje Yönetimi
+[NumiFly Proje Yönetimi (Trello)](https://trello.com/b/ZnIYiWKi/ymkg-numifly)
+
+--- 
+
+## Ekran Görüntüleri
    1.Anasayfa 
   <table>
      <tr>
