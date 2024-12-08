@@ -75,7 +75,7 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
     5.Dokümanlar
   <table>
      <tr>
-       <td><img src="document-page.png" alt="Dokümanlar Sayfası" width="50%"></td>
+       <td><img src="documentPage.png" alt="Dokümanlar Sayfası" width="50%"></td>
      </tr>
   </table>
 
