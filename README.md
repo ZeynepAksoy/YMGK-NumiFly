@@ -44,45 +44,45 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
    1.Anasayfa 
   <table>
      <tr>
-       <td><img src="home-page.png" alt="Ana Sayfa" width="50%"></td>
+       <td><img src="home-page.png" alt="Ana Sayfa" width="70%"></td>
      </tr>
   </table>
 
     2.Ar Deneyimi
   <table>
      <tr>
-       <td><img src="ar-page1.png" alt="Ar Deneyimi" width="50%"></td>
+       <td><img src="ar-page1.png" alt="Ar Deneyimi" width="70%"></td>
      </tr>
           <tr>
-       <td><img src="ar-page2.png" alt="Ar Deneyimi" width="50%"></td>
+       <td><img src="ar-page2.png" alt="Ar Deneyimi" width="70%"></td>
      </tr>
    </table>
 
     3.Hakkımızda
   <table>
      <tr>
-       <td><img src="about-page.png" alt="Hakkımızda" width="50%"></td>
+       <td><img src="about-page.png" alt="Hakkımızda" width="70%"></td>
      </tr>
    </table>
 
     4.İletişim
    <table>
      <tr>
-       <td><img src="contact-page.png" alt="İletişim Sayfası" width="50%"></td>
+       <td><img src="contact-page.png" alt="İletişim Sayfası" width="70%"></td>
      </tr>
    </table>
 
     5.Dokümanlar
   <table>
      <tr>
-       <td><img src="documentPage.png" alt="Dokümanlar Sayfası" width="50%"></td>
+       <td><img src="documentPage.png" alt="Dokümanlar Sayfası" width="70%"></td>
      </tr>
   </table>
 
     6.Ar Deneyimini Başlat
   <table>
      <tr>
-       <td><img src="ar-start-page.png" alt="Ar Deneyimini Başlat Sayfası" width="50%"></td>
+       <td><img src="Ar-start.png" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
      </tr>
    </table>
 
