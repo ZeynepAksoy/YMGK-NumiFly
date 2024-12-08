@@ -1,6 +1,6 @@
 # NumiFly Projesi - README
 
-NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçeklik (AR) deneyimi sunar. Uçak içi eğlence sistemleri için tasarlanmış bu proje, internet bağlantısına ihtiyaç duymadan çalışır.
+NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçeklik (AR) deneyimi sunar. Uçak içi eğlence sistemleri için tasarlanmıştır.
 
 ---
 
@@ -37,6 +37,10 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 
 ## Proje Yönetimi
 [NumiFly Proje Yönetimi (Trello)](https://trello.com/b/ZnIYiWKi/ymkg-numifly)
+
+--- 
+## Tanıtım Videosu
+[Proje Tanıtım Videosu](https://youtu.be/Kqw6DXMZ7l8)
 
 --- 
 
