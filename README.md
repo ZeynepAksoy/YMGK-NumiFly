@@ -72,7 +72,7 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
      </tr>
    </table>
 
-    5.Dökümanlar
+    5.Dokümanlar
   <table>
      <tr>
        <td><img src="document-page.png" alt="Dokümanlar Sayfası" width="50%"></td>
