@@ -128,15 +128,15 @@ footer {
 #download-section .app-buttons {
     display: flex;
     justify-content: center;
-    gap: 20px; /* İki buton arasındaki boşluk */
+    gap: 20px;
 }
 
 #download-section .app-buttons img {
-    width: 150px; /* Buton boyutu */
+    width: 150px; 
     height: auto;
-    transition: transform 0.3s ease; /* Hover animasyonu */
+    transition: transform 0.3s ease; 
 }
 
 #download-section .app-buttons img:hover {
-    transform: scale(1.1); /* Hover sırasında büyütme */
+    transform: scale(1.1); 
 }
