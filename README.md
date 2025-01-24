@@ -41,8 +41,8 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 
 --- 
 ## Tanıtım Videoları
-[Projenin Genel Tanıtım Videosu](https://youtu.be/Yj2uGbBMgW0)
-[Oyunların Tanıtım Videosu](https://youtu.be/LB1noQNK-m4)
+-[Projenin Genel Tanıtım Videosu](https://youtu.be/Yj2uGbBMgW0)
+-[Oyunların Tanıtım Videosu](https://youtu.be/LB1noQNK-m4)
 
 --- 
 
