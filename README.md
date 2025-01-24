@@ -41,7 +41,7 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 
 --- 
 ## Tanıtım Videoları
-[Projenin Genel Tanıtım Videosu](https://youtu.be/YRzOOWmmDKU)
+[Projenin Genel Tanıtım Videosu](https://youtu.be/Yj2uGbBMgW0)
 [Oyunların Tanıtım Videosu](https://youtu.be/LB1noQNK-m4)
 
 --- 
@@ -88,7 +88,7 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
     6.AR Deneyimini Başlat
   <table>
     <tr>
-       <td><img src="Photos/ar-start.png" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
+       <td><img src="Photos/ar-start2.png" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
      </tr>
     <tr>
        <td><img src="Photos/ar-start1.png" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
