@@ -80,3 +80,63 @@ footer {
     padding: 10px;
     background: #ffeb99;
 }
+
+#web-ar-section h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: left; 
+    padding-left: 20px;     
+}
+
+.styled-list {
+    list-style-type: disc; 
+    padding-left: 50px; 
+    margin-top: 10px;
+    text-align: left; 
+}
+
+.styled-list li {
+    font-size: 16px; 
+    color: #333; 
+    line-height: 1.6; 
+}
+
+#download-section {
+    text-align: center;
+    padding: 20px;  
+    margin-top: 40px;
+}
+
+#download-section h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#download-section p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+#download-section .app-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* İki buton arasındaki boşluk */
+}
+
+#download-section .app-buttons img {
+    width: 150px; /* Buton boyutu */
+    height: auto;
+    transition: transform 0.3s ease; /* Hover animasyonu */
+}
+
+#download-section .app-buttons img:hover {
+    transform: scale(1.1); /* Hover sırasında büyütme */
+}

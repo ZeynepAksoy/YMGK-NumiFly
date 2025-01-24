@@ -18,6 +18,7 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 - **JavaScript**: Dinamik özellikler.
 - **OverlyApp**: AR entegrasyonu.
 
+
 ---
 
 ## Kurulum ve Çalıştırma
@@ -85,8 +86,11 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 
     6.Ar Deneyimini Başlat
   <table>
-     <tr>
-       <td><img src="Photos/Ar-start.png" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
+    <tr>
+       <td><img src="Photos/ar-sart" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
+     </tr>
+    <tr>
+       <td><img src="Photos/ar-sart2" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
      </tr>
    </table>
 

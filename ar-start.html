@@ -9,13 +9,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Navbar -->
-    <nav>
-        <div class="logo">
-            <a href="index.html">
-                <img src="Photos/logo.png" alt="NumiFly Logo">
-            </a>
-        </div>
+<!-- Navbar -->
+<nav>
+    <div class="logo">
+        <a href="index.html">
+            <img src="Photos/logo.png" alt="NumiFly Logo">
+        </a>
+    </div>
         <ul class="nav-links">
             <li><a href="index.html">Anasayfa</a></li>
             <li><a href="ar.html">AR Deneyimi</a></li>
@@ -23,64 +23,94 @@
             <li><a href="contact.html">İletişim</a></li>
             <li><a href="documents.html">Dokümanlar</a></li>
         </ul>
-    </nav>
+</nav>
 
-    <!-- Hero Section -->
-    <header class="hero">
-        <h1>AR Deneyimi</h1>
+<!-- Hero Section -->
+<header class="hero">
+    <h1>AR Deneyimi</h1>
 
-    <!-- AR Deneyimini Başlat -->
-    <section class="ar-content">
-                    <p>
-                        "Ar deneyimini başlat" butonuna tıklayarak oyunları görüntüleyebilirsiniz. 
-                        Açılacak olan oyunlardan dilediğinizi seçip oynayabilirsiniz.
-                    </p>
-                    <br>
-                    <p>
-                        Aynı zamanda oyunu seçtikten sonra "View Room" yaparak çıkan QR kodunu telefonunuzda okutarak, 
-                        telefonunuzdanda oynayabilirsiniz.
-                    </p>
-                    <br>    
-                    <br>          
+<!-- AR Deneyimini Başlat -->
+<section class="ar-content">
+    <p>
+        "Ar deneyimini başlat" butonuna tıklayarak oyunları görüntüleyebilirsiniz. 
+        Açılacak olan oyunlardan dilediğinizi seçip oynayabilirsiniz.
+    </p>
+    <br>  
+    <br>          
             <button onclick="showContainers()">AR Deneyimini Başlat</button>
-        </div>
-    </section>
+</div>
+</section>
 
-    <!-- AR Deneyimi İçin Containerlar -->
-    <section id="ar-containers" class="ar-containers" style="display: none;">
+<section id="web-ar-section" style="display: none;">
+    <h2>Web için AR Deneyimi</h2>
+    <ul class="styled-list">
+        <li>
+            İstediğiniz Web AR oyununu seçtikten sonra "View Room" yaparak çıkan QR kodunu telefonunuzda okutarak, telefonunuzdan da oynayabilirsiniz.
+        </li>
+    </ul>
+    <br>  
 
-        <div class="ar-container">
-            <a href="https://create.overlyapp.com/webar/fc05bd77f61c3eae55005337e10d1b83aad27b42?embed=true" target="_blank">
-                <img src="Photos/flowers.png"" alt="AR Deneyimi 2">
-                <h3>Çiçek Oyunu</h3>
-            </a>
-        </div>
+ <!-- Web AR Deneyimi İçin Containerlar -->
+ <section id="ar-containers" class="ar-containers" style="display: none;">
 
-        <div class="ar-container">
-            <a href="https://create.overlyapp.com/webar/db80a515dcf17688308186a78c9d326c9f4e14d1?embed=true" target="_blank">
-                <img src="Photos/dessert.png" alt="AR Deneyimi 1">
-                <h3>Tatlı Oyunu</h3>
-            </a>
-        </div>
-        
-        <div class="ar-container">
-            <a href="https://create.overlyapp.com/webar/c09d44e3ba170593135b171d20e8159e2648ca2d?embed=true" target="_blank">
-                <img src="Photos/bag.png" alt="AR Deneyimi 3">
-                <h3>Poşet Oyunu</h3>
-            </a>
-        </div>
-    </section>
-    </header>
+    <div class="ar-container">
+        <a href="https://create.overlyapp.com/webar/fc05bd77f61c3eae55005337e10d1b83aad27b42?embed=true" target="_blank">
+            <img src="Photos/flowers.png"" alt="AR Deneyimi 2">
+            <h3>Çiçek Oyunu</h3>
+        </a>
+    </div>
+
+    <div class="ar-container">
+        <a href="https://create.overlyapp.com/webar/db80a515dcf17688308186a78c9d326c9f4e14d1?embed=true" target="_blank">
+            <img src="Photos/dessert.png" alt="AR Deneyimi 1">
+            <h3>Tatlı Oyunu</h3>
+        </a>
+    </div>
+    
+    <div class="ar-container">
+        <a href="https://create.overlyapp.com/webar/c09d44e3ba170593135b171d20e8159e2648ca2d?embed=true" target="_blank">
+            <img src="Photos/bag.png" alt="AR Deneyimi 3">
+            <h3>Poşet Oyunu</h3>
+        </a>
+    </div>
+</section>
+
+<section id="download-section">
+    <h2>Mobil Uygulama için AR Deneyimi</h2>
+    <ul class="styled-list">
+        <li>
+            Daha iyi bir AR deneyimi için Overly uygulamasını indirin
+        </li>
+        <li>
+            Kitabın sayfalarını okutarak oyunun ve eğlencenin tadını çıkarın
+        </li>
+    </ul>
+    <br>
+
+    <div class="app-buttons">
+        <a href="https://play.google.com/store/apps/details?id=com.Overly.Cloud&pli=1" target="_blank">
+            <img src="Photos/googleplay.png" alt="Google Play'den İndir">
+        </a>
+        <a href="https://apps.apple.com/us/app/overly/id917343353" target="_blank">
+            <img src="Photos/applestore.png" alt="App Store'dan İndir">
+        </a>
+    </div>
+</section>
+
+</section>
+</header>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 NumiFly. Tüm Hakları Saklıdır.</p>
+        <p>&copy; 2025 NumiFly. Tüm Hakları Saklıdır.</p>
     </footer>
 
     <!-- JavaScript -->
     <script>
         function showContainers() {
             document.getElementById("ar-containers").style.display = "flex";
+            const webARSection = document.getElementById("web-ar-section");
+            webARSection.style.display = "block"; // Görünür yapar
         }
     </script>
 </body>
