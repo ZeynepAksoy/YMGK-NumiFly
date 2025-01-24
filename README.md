@@ -40,8 +40,9 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
 [NumiFly Proje Yönetimi (Trello)](https://trello.com/b/ZnIYiWKi/ymkg-numifly)
 
 --- 
-## Tanıtım Videosu
-[Proje Tanıtım Videosu](https://youtu.be/YRzOOWmmDKU)
+## Tanıtım Videoları
+[Projenin Genel Tanıtım Videosu](https://youtu.be/YRzOOWmmDKU)
+[Oyunların Tanıtım Videosu](https://youtu.be/LB1noQNK-m4)
 
 --- 
 
@@ -53,7 +54,7 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
      </tr>
   </table>
 
-    2.Ar Deneyimi
+    2.AR Deneyimi
   <table>
      <tr>
        <td><img src="Photos/ar-page1.png" alt="Ar Deneyimi" width="70%"></td>
@@ -84,13 +85,13 @@ NumiFly projesi, çocuklar için eğlenceli ve eğitici artırılmış gerçekli
      </tr>
   </table>
 
-    6.Ar Deneyimini Başlat
+    6.AR Deneyimini Başlat
   <table>
     <tr>
        <td><img src="Photos/ar-start.png" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
      </tr>
     <tr>
-       <td><img src="Photos/ar-start2.png" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
+       <td><img src="Photos/ar-start1.png" alt="Ar Deneyimini Başlat Sayfası" width="70%"></td>
      </tr>
    </table>
 
